@@ -2,8 +2,6 @@
 
 A platform to facilitate pet adoption and connect pet owners with potential adopters.
 
-# PetConnect
-
 PetConnect is a pet adoption platform built using Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB. It provides a seamless experience for users to adopt pets, browse through a gallery, and manage their accounts.
 
 ## Table of Contents
@@ -14,8 +12,7 @@ PetConnect is a pet adoption platform built using Next.js, Tailwind CSS, Node.js
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -54,10 +51,10 @@ Create a .env file in the server directory and add your MongoDB connection strin
 
 Once the application is running, navigate to http://localhost:3000 in your browser to access PetConnect.
 
-Screenshots
+## Screenshots
 
 
 
 Screenshots demonstrating key features of the application.
-Deployment
+## Deployment
 PetConnect is deployed on Vercel. You can access it live at PetConnect Live Demo.
