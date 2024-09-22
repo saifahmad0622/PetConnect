@@ -53,6 +53,15 @@ Once the application is running, navigate to http://localhost:3000 in your brows
 
 ## Screenshots
 
+![Home Page](screenshots/Screenshot_21-9-2024_12834_localhost.jpeg)
+*The Home Page showcasing available pets.*
+
+![Pet Adoption Page](screenshots/screenshot-1726862469353.png)
+*Detailed view of a pet available for adoption.*
+
+![Pets Gallery](screenshots/Screenshot_21-9-2024_13314_localhost.jpeg)
+*Gallery displaying all pets.*
+
 
 
 Screenshots demonstrating key features of the application.
