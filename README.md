@@ -28,6 +28,12 @@ PetConnect is a pet adoption platform built using Next.js, Tailwind CSS, Node.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Deployment**: Vercel
+- **Additional Libraries**:
+  - **Tailwind CSS**: For utility-first styling.
+  - **React Tabler Icons**: For intuitive iconography.
+  - **Swiper JS**: For creating responsive sliders and carousels in the Pets Gallery.
+  - **Headless UI & Chakra UI**: For accessible and customizable UI components.
+  - **Material UI**: For implementing Material Design components where applicable.
 
 ## Installation
 
