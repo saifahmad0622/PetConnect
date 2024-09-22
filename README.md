@@ -53,15 +53,33 @@ Once the application is running, navigate to http://localhost:3000 in your brows
 
 ## Screenshots
 
+### Home Page
 ![Home Page](screenshots/Screenshot_21-9-2024_12834_localhost.jpeg)
-*The Home Page showcasing available pets.*
+*The Home Page of PetConnect welcomes users with a clean and modern design. It features a navigation bar at the top for easy access to different sections, including Pet Adoption, Pets Gallery, and About Us. The main section highlights featured pets available for adoption, encouraging users to explore further.*
 
-![Pet Adoption Page](screenshots/screenshot-1726862469353.png)
-*Detailed view of a pet available for adoption.*
+### Sign Up Page
+![Sign Up Page](screenshots/Screenshot_21-9-2024_13932_localhost.jpeg)
+*The Sign Up Page enables new users to create an account easily. It requires basic information such as name, email, password, and confirmation of the password. A 'Sign Up' button is prominently displayed to encourage user registration.*
 
+### Login Page
+![Login Page](screenshots/Screenshot_21-9-2024_1403_localhost.jpeg)
+*The Login Page allows users to securely access their accounts. It includes fields for email and password, along with a 'Login' button. Users can also find a link to the Sign-Up page if they do not have an account yet, ensuring a smooth onboarding process.*
+
+### Pet Adoption Page
+![Pet Adoption Page](screenshots/screenshot-1726862914649.png)
+*The Pet Adoption Page showcases pets available for adoption in a user-friendly layout. Each pet card includes an image, name, breed, age, and a brief description, making it easy for potential adopters to find their ideal pet companion.*
+
+### Pet Availability
+![Pet Availability](screenshots/screenshot-1726862469353.png)
+*This screenshot highlights the availability status of pets in the adoption process. Users can see which pets are currently available or have been adopted, helping them make informed decisions about their adoption journey.*
+
+### Pets Gallery
 ![Pets Gallery](screenshots/Screenshot_21-9-2024_13314_localhost.jpeg)
-*Gallery displaying all pets.*
+*The Pets Gallery presents a visually appealing collection of all pets in the system. Users can browse through images of various pets, each linked to its respective adoption page for more details.*
 
+### About PetConnect
+![About PetConnect](screenshots/Screenshot_21-9-2024_13226_localhost.jpeg)
+*The About page provides information about PetConnect's mission and values. It explains the purpose of the platform in promoting pet adoption and connecting potential adopters with pets in need of homes.*
 
 
 Screenshots demonstrating key features of the application.
